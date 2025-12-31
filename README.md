@@ -1,22 +1,34 @@
-<h1 align="center">👋 Hi, I'm Sumukh</h1>
+<h1 align="center">Welcome to My Profile! 👋</h1>
 
 <p align="center">
-Final-year Computer Science Student • Full-Stack Developer • MERN Stack
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400"/>
 </p>
 
+<h2 align="center">Hey there! I'm <b>Sumukh M S</b></h2>
+
 <p align="center">
-  <a href="mailto:sumukhms.25@gmail.com">📧 Email</a> •
-  <a href="https://github.com/Sumukhms">🐙 GitHub</a>
+Final-year CSE Student • Full-Stack Developer (MERN)<br/>
+I enjoy building practical, scalable web applications and learning by doing.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-- 🎓 Final-year CSE student  
-- 💻 Full-Stack developer (MERN)  
-- 🔍 Interested in scalable web apps & backend systems  
-- 🧠 Comfortable with REST APIs, JWT Auth, DB Design  
+- 🎓 Final-year Computer Science Engineering student  
+- 💻 Full-Stack developer focused on MERN  
+- 🔐 Comfortable with REST APIs, JWT Auth, DB design  
+- 🚀 Prefer real deployed work over buzzwords  
+
+---
+
+## 🌐 Socials
+
+<p align="center">
+<a href="mailto:sumukhms.25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Sumukhms"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
@@ -24,55 +36,25 @@ Final-year Computer Science Student • Full-Stack Developer • MERN Stack
 
 <p align="center">
 
-✔ MERN Stack  
-✔ REST APIs & JWT  
-✔ Git & Deployment (Vercel / Render / GitHub Pages)
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white"/>
 
-</p>
-
----
-
-## ⭐ Portfolio Projects (only the key three)
-
-### 🚀 InvestIQ – AI-Driven Startup Insights
-Full-stack platform to analyze startup data and generate insights  
-✔ Designed backend APIs and DB schema  
-✔ JWT authentication  
-❗ Not deployed yet — under active development  
-🔗 Repo: https://github.com/Sumukhms/INVESTIQ
-
----
-
-### 📚 Edugram – Student–Teacher Social Platform
-Academic networking platform like LinkedIn  
-✔ Posts, comments, profiles  
-✔ MERN stack end-to-end  
-✔ Backend on Render | Frontend on Vercel  
-🔗 Repo: https://github.com/Sumukhms/Edugram
-
----
-
-### ✍️ Text Utils – React Mini App
-Utility tool for text formatting and transformations  
-✔ React-based  
-✔ Deployed on Vercel/GitHub Pages  
-🔗 Repo: https://github.com/Sumukhms/Text-Utils
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumukhms&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sumukhms" />
 </p>
 
 ---
 
 ## 🎯 Current Focus
-- Backend architecture
-- Deployment & CI/CD
-- Strong portfolio projects
+
+- Strengthening backend and API design  
+- Writing cleaner, testable code  
+- Building high-quality full-stack apps  
+
+---
